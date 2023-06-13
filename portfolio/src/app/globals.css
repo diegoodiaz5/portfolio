@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+:root {
+  --color-one: #03045e;
+  --color-two: #023e8a;
+  --color-three: #0077b6;
+  --color-four: #0096c7;
+  --color-five: #00b4d8;
+  --color-six: #48cae4;
+  --color-seven: #90e0ef;
+  --color-eight: #ade8f4;
+  --color-nine: #caf0f8;
+}
